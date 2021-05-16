@@ -6,7 +6,7 @@
 ### <div align="center">I'm Tarith, I'm working on **backend development** and **system development**</div>  
   
 
-- 🌱 I’m currently learning Rust, Python and Flutter  
+- 🌱 I’m currently learning Rust and Flutter  
   
 
 - ❓ Ask me about anything related to programming or computers in general  
