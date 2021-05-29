@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to programming or computers in general  
   
 
-- ⚡ Fun fact: I hate java  
+- ⚡ Fun fact: I hate java and [Profile Views](https://gpvc.arturio.dev/tarithj)
   
 
 - ➡️ Check out [flew software](https://github.com/flew-software), I mostly create open source repos there  
