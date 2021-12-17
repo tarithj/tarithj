@@ -6,14 +6,7 @@
 ### <div align="center">I'm Tarith, I'm working on **backend development** and **system development**</div>  
   
 
-- 🌱 I’m currently learning Rust and Flutter  
-  
-
-- ❓ Ask me about anything related to programming or computers in general  
-  
-
-- ⚡ Fun fact: I hate java and I have ![Profile Views](https://gpvc.arturio.dev/tarithj)
-  
+- 🌱 I’m currently learning C# & Webapp development    
 
 - ➡️ Check out [flew software](https://github.com/flew-software), I mostly create open source repos there  
 
