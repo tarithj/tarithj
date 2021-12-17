@@ -10,7 +10,7 @@
 
 - ➡️ Check out [flew software](https://github.com/flew-software), I mostly create open source repos there  
 
-- 🏫 BTW I study at royal college
+- 🏫 I study at Royal College
   
 
 <br/>  
